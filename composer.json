@@ -1,5 +1,5 @@
 {
-    "name": "jaravel/laravel-filesystem-cos",
+    "name": "focite/laravel-filesystem-cos",
     "description": "A Cos storage filesystem for Laravel.",
     "license": "MIT",
     "require": {
@@ -8,13 +8,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Jaravel\\Flysystem\\Cos\\": "src"
+            "Focite\\Flysystem\\Cos\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jaravel\\Flysystem\\Cos\\CosStorageServiceProvider"
+                "Focite\\Flysystem\\Cos\\CosStorageServiceProvider"
             ]
         }
     },

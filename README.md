@@ -9,7 +9,7 @@
 # Installation
 
 ```shell
-$ composer require "jaravel/laravel-filesystem-cos" -vvv
+$ composer require "focite/laravel-filesystem-cos" -vvv
 ```
 
 # Configuration
